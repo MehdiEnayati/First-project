@@ -1,0 +1,64 @@
+.icoon {
+    color: #0d6efd;
+    background-color: #ebeafb;
+    display: inline-flex;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.card2 {
+    background-color: #241178;
+    color: white;
+}
+
+.bg-section {
+    background-color: #241178;
+}
+
+.bg-footer {
+    background-color: #f8f9fa;
+}
+
+.footer-link {
+    color: #000;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #000;
+}
+
+.border-footer {
+    border-bottom: 3px solid;
+    height: 40px;
+}
+
+.bg-blue {
+    height: 150px;
+    overflow: hidden;
+}
+
+.bg-blue2 {
+    height: 100%;
+    width: 100%;
+}
+
+.bg-blue3 {
+    stroke: none;
+    fill: #241178;
+}
+
+.bg-light1 {
+    height: 100px;
+    overflow: hidden;
+}
+
+.bg-light2 {
+    height: 100%;
+    width: 100%;
+}
+
+.bg-light3 {
+    stroke: none;
+    fill: #f8f9fa;
+}
